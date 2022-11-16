@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://raw.githubusercontent.com/freedomgod/freedomgod/main/assets/github-contribution-grid-snake.svg)
+![](https://github.com/freedomgod/freedomgod/blob/main/github-contribution-grid-snake.svg)
