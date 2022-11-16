@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://raw.githubusercontent.com/freedomgod/freedomgod/master/github-contribution-grid-snake-dark.svg" />
+
+![](https://raw.githubusercontent.com/freedomgod/freedomgod/main/assets/github-contribution-grid-snake.svg)
