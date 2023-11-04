@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github.com/freedomgod/freedomgod/blob/main/github-contribution-grid-snake-dark.svg)
+
+[![freedomgod's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=freedomgod)](https://github.com/anuraghazra/github-readme-stats)
