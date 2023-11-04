@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ![](https://github.com/freedomgod/freedomgod/blob/main/github-contribution-grid-snake-dark.svg)
 
 [![freedomgod's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=freedomgod)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=freedomgod&layout=compact)
+
+<figure><embed src="https://wakatime.com/share/@freedomgod/bab8c7bc-6d41-4d29-b717-e2c5a936592b.svg"></embed></figure>
